@@ -1,10 +1,10 @@
 // Copyright 2024 Nazyrov A.A.
 
-#ifndef ALG_H
-#define ALG_H
+#ifndef INCLUDE_ALG_H_
+#define INCLUDE_ALG_H_
 
 #include <cstdint>
 
 uint64_t factorial(uint8_t n);
 
-#endif
+#endif  // INCLUDE_ALG_H_
